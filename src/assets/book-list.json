@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Count of Monte Cristo",
+    "cover": "https://m.media-amazon.com/images/I/811iBn28JdL.jpg"
+  },
+  {
+    "name": "The Three Musketeers",
+    "cover": "https://m.media-amazon.com/images/I/71TN3vVsHuL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Les Miserables",
+    "cover": "https://m.media-amazon.com/images/I/71L28YvPobL.jpg"
+  },
+  {
+    "name": "White Nights",
+    "cover": "https://m.media-amazon.com/images/I/61TUAiqQF-L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Notes from Underground",
+    "cover": "https://m.media-amazon.com/images/I/81b1DD3RZ-L.jpg"
+  },
+  {
+    "name": "Lectures on Physics",
+    "cover": "https://m.media-amazon.com/images/I/91SpQUUtETL._UF1000,1000_QL80_.jpg"
+  }
+]

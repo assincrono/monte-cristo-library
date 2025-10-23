@@ -34,7 +34,7 @@ export default function Book({ name, cover }: BookProps) {
 
   return (
     <div
-      className="box w-[280px] overflow-hidden rounded-lg shadow-lg cursor-pointer"
+      className="box w-[280px] overflow-hidden rounded-lg shadow-lg"
       ref={book}
       onMouseEnter={handleHoverIn}
       onMouseLeave={handleHoverOut}
