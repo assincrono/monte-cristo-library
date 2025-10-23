@@ -13,7 +13,7 @@ interface BookInfo {
 }
 function App() {
   return (
-    <div className="min-h-screen w-screen bg-[#FAFAFA]">
+    <div className="min-h-screen w-screen bg-[#FAFAFA] overflow-hidden">
       <div className="flex-col items-center justify-center pt-24">
         <p className="roboto-serif text-7xl text-center">
           Library of Monte Cristo
@@ -24,7 +24,7 @@ function App() {
       </div>
 
       <div className="w-screen flex flex-col justify-center items-center">
-        <div className="flex justify-start gap-24 flex-wrap pt-24 max-w-[80%]">
+        <div className="flex justify-start gap-24 flex-wrap pt-24 max-w-[75%]">
           {bookList.map((book: BookInfo, index: number) => (
             <Book key={index} name={book.name} cover={book.cover} />
           ))}
