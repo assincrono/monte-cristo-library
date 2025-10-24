@@ -23,8 +23,8 @@ function App() {
         </p>
       </div>
 
-      <div className="w-screen flex flex-col justify-center items-center">
-        <div className="flex justify-start gap-24 flex-wrap pt-24 max-w-[75%]">
+      <div className="w-screen min-h-screen flex flex-col justify-start items-center">
+        <div className="flex justify-start gap-24 flex-wrap pt-24 max-w-[80%]">
           {bookList.map((book: BookInfo, index: number) => (
             <Book key={index} name={book.name} cover={book.cover} />
           ))}

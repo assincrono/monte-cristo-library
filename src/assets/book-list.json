@@ -24,7 +24,27 @@
     "cover": "https://m.media-amazon.com/images/I/91qr52ygfiL._UF1000,1000_QL80_.jpg"
   },
   {
+    "name": "The Idiot",
+    "cover": "https://m.media-amazon.com/images/I/51P3Ftk8NZL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "The Brothers Karazamov",
+    "cover": "https://m.media-amazon.com/images/I/919LJ0ts6fL._UF1000,1000_QL80_.jpg"
+  },
+  {
     "name": "Lectures on Physics",
     "cover": "https://m.media-amazon.com/images/I/91SpQUUtETL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "History of Western Philosophy",
+    "cover": "https://m.media-amazon.com/images/I/91kDuYWUqYL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "The Hobbit",
+    "cover": "https://m.media-amazon.com/images/I/91zdxRRvabL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "The Lord of The Rings",
+    "cover": "https://m.media-amazon.com/images/I/81nV6x2ey4L.jpg"
   }
 ]
